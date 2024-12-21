@@ -9,6 +9,7 @@
 #DEFAULT_WORKFLOW="https://..."
 
 APT_PACKAGES=(
+    axel
     #"package-1"
     #"package-2"
 )
