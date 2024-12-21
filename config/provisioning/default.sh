@@ -25,10 +25,10 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
+    #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
-    "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+    #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
+    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     "https://civitai.com/api/download/models/799569?type=Model&format=SafeTensor&size=full&fp=fp16"
     "https://civitai.com/api/download/models/679172?type=Model&format=SafeTensor&size=full&fp=fp16"
     "https://civitai.com/api/download/models/846897?type=Model&format=SafeTensor&size=full&fp=fp32"
@@ -42,7 +42,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/1099127?type=Model&format=SafeTensor&size=full&fp=fp16"
     "https://civitai.com/api/download/models/934796?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/998694?type=Model&format=SafeTensor&size=full&fp=fp16"
-    "https://civitai.com/api/download/models/912997?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.om/api/download/models/912997?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/605022?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/930779?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/421137?type=Model&format=SafeTensor&size=full&fp=fp32"
