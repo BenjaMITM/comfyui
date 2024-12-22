@@ -29,11 +29,16 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+    # Realism From Hades XL & Lightning
     "https://civitai.com/api/download/models/799569?type=Model&format=SafeTensor&size=full&fp=fp16"
     "https://civitai.com/api/download/models/679172?type=Model&format=SafeTensor&size=full&fp=fp16"
+    # cinenautsXLATRUE Cinenauts
     "https://civitai.com/api/download/models/846897?type=Model&format=SafeTensor&size=full&fp=fp32"
+    # ZaxiousXL WildChild
     "https://civitai.com/api/download/models/678953?type=Model"
+    # HimerosXL
     "https://civitai.com/api/download/models/423235?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    # Homo Fidelis
     "https://civitai.com/api/download/models/958003?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/951424?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/858718?type=Model&format=SafeTensor&size=pruned&fp=fp16"
